@@ -14,14 +14,14 @@ function HTMLActuator() {
 }
 
 dogeSayings = [ 
-  'Taffel <3',
-  'Vitusti Rasvaa!',
-  'Broadway!',
-  'Sourcream and Onion <3',
-  'Estrella!',
-  'Ranch <3',
-  'Taffeli on parasta!',
-  'Sips!'
+  'Fazer <3',
+  'Vitusti Sokeria!',
+  'Kaneli Ässä!',
+  'Filipinos <3',
+  'Pirkka!',
+  'Rainbow <3',
+  'Marabou on parasta!',
+  'Sokerihumala!'
 ]
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
