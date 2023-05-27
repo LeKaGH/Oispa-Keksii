@@ -1,4 +1,4 @@
-# Oispa Sipsii!
-Pystytkö syömään monta Sipsii ja tekemään niistä parempia?
+# Oispa Keksii!
+Pystytko syömään monta keksiä ja yhdistää niitä, että saat parempia keksiä?
 
-Pelaa [täällä](https://oispasipsii.tk/)!
+Pelaa [täällä](www.lekagh.github.io)!
