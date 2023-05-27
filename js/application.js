@@ -15,8 +15,7 @@ window.requestAnimationFrame(function () {
         "https://lekagh.github.io/Oispa-Keksii/img/256.png",
         "https://lekagh.github.io/Oispa-Keksii/img/512.png",
         "https://lekagh.github.io/Oispa-Keksii/img/1024.png",
-        "https://lekagh.github.io/Oispa-Keksii/img/2048.png",
-        "https://lekagh.github.io/Oispa-Keksii/img/super.png"
+        "https://lekagh.github.io/Oispa-Keksii/img/2048.png"
 
     ];
     for(var i = 0; i < imageList.length; i++ )
