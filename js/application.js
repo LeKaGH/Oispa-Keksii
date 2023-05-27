@@ -5,17 +5,17 @@ window.requestAnimationFrame(function () {
 
 
     var imageList = [
-        "https://oispasipsii.tk/img/2.png",
-        "https://oispasipsii.tk/img/4.png",
-        "https://oispasipsii.tk/img/8.png",
-        "https://oispasipsii.tk/img/16.png",
-        "https://oispasipsii.tk/img/32.png",
-        "https://oispasipsii.tk/img/64.png",
-        "https://oispasipsii.tk/img/128.png",
-        "https://oispasipsii.tk/img/256.png",
-        "https://oispasipsii.tk/img/512.png",
-        "https://oispasipsii.tk/img/1024.png",
-        "https://oispasipsii.tk/img/2048.png"
+        "https://lekagh.github.io/Oispa-Keksii/img/2.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/4.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/8.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/16.png",
+        "https://lekagh.github.io/Oispa-Keksii//img/32.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/64.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/128.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/256.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/512.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/1024.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/2048.png"
 
     ];
     for(var i = 0; i < imageList.length; i++ )
