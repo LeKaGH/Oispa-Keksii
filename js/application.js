@@ -9,7 +9,7 @@ window.requestAnimationFrame(function () {
         "https://lekagh.github.io/Oispa-Keksii/img/4.png",
         "https://lekagh.github.io/Oispa-Keksii/img/8.png",
         "https://lekagh.github.io/Oispa-Keksii/img/16.png",
-        "https://lekagh.github.io/Oispa-Keksii//img/32.png",
+        "https://lekagh.github.io/Oispa-Keksii/img/32.png",
         "https://lekagh.github.io/Oispa-Keksii/img/64.png",
         "https://lekagh.github.io/Oispa-Keksii/img/128.png",
         "https://lekagh.github.io/Oispa-Keksii/img/256.png",
