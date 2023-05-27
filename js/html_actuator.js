@@ -13,7 +13,15 @@ function HTMLActuator() {
 
 }
 
-dogeSayings = [ 
+dogeSayings = [
+  'Fazer <3',
+  'Vitusti Sokeria!',
+  'Kaneli Ässä!',
+  'Filipinos <3',
+  'Pirkka!',
+  'Rainbow <3',
+  'Marabou on parasta!',
+  'Sokerihumala!'
 ]
 
 HTMLActuator.prototype.actuate = function (grid, metadata) {
